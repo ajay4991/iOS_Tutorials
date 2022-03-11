@@ -1,6 +1,6 @@
 # iOS_Tutorials
 
-Things to cover —
+#Things to cover —
 
 Array Operations -
 Sorting Techniques - 
@@ -10,10 +10,9 @@ Set -
 Queque-
 Stack-
 Recursions 
-Tree and Graph
+Tree and Graph.
 
-——————————
-iOS Architecture 
+#iOS Architecture 
 All Design Patterns 
 MVC, MVP, MVVM, VIPER, Adaptor Facade, Decorator , Factory , Builder, Bridge , Prototype 
 
